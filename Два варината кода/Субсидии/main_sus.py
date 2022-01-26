@@ -2,7 +2,7 @@ import telebot
 
 from telebot import types
 
-bot = telebot.TeleBot('1939461215:AAFcgouq1aUfvtHi6PZ0jUKsj67raIby9_M')
+bot = telebot.TeleBot('#')
 
 
 def keyboard(where_call):  # функция вызова всех типов клавиатур
